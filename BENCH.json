@@ -540,10 +540,10 @@
  "version": "1.0.0",
  "source": {
   "git": {
-   "head": "3dc8501242bc8951d98ef293cb683324fa58e4ca",
-   "url": "https://github.com/iakdis/librecamera",
-   "branch": "master",
-   "sha_verified_from": "GitHub API commits/master | unified 2026-10-14 (API-exists + content/clone anchor)"
+   "url": "https://github.com/LibreCAM/LibreCAM",
+   "head": "46961097d837550bf68ec14eacb9e1f1a4297bd5",
+   "sha_verified_from": "revendor 2026-10-15: GitHub API commit lookup",
+   "previous_substitute": "https://github.com/iakdis/librecamera"
   }
  },
  "license": "GPL-3.0",
