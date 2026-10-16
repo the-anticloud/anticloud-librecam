@@ -543,7 +543,7 @@
    "url": "https://github.com/LibreCAM/LibreCAM",
    "head": "46961097d837550bf68ec14eacb9e1f1a4297bd5",
    "sha_verified_from": "revendor 2026-10-15: GitHub API commit lookup",
-   "previous_substitute": "https://github.com/iakdis/librecamera"
+   "previous_substitute": "https://github.com/LibreCAM/LibreCAM"
   }
  },
  "license": "GPL-3.0",
